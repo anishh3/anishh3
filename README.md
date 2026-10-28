@@ -57,7 +57,7 @@ keep the loop bounded            → useful automation, not runaway automation
 
 ### `> currently_into`
 
-`RAG systems` · `hybrid retrieval` · `agentic workflows` · `computer vision` · `local inference` · `AI product engineering`
+`RAG systems` · `agentic workflows` · `computer vision` · `local inference` · `AI product engineering`
 
 ---
 
