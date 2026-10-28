@@ -57,7 +57,7 @@ keep the loop bounded            → useful automation, not runaway automation
 
 ### `> currently_into`
 
-`RAG systems` · `agentic workflows` · `computer vision` · `local inference` · `AI product engineering`
+`RAG systems` · `agentic workflows` · `computer vision` · `AI product engineering`
 
 ---
 
@@ -70,16 +70,7 @@ keep the loop bounded            → useful automation, not runaway automation
 
 <div align="center">
 
-### `> github_status`
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anishh3&show_icons=true&hide_border=true&bg_color=101426&title_color=00D1B2&text_color=E6EAF2&icon_color=7C8CFF&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishh3&layout=compact&hide_border=true&bg_color=101426&title_color=00D1B2&text_color=E6EAF2" alt="Most used languages" />
-
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=anishh3&style=flat-square&color=00D1B2&label=PROFILE+VISITS" alt="Profile views" />
-
-<br /><br />
 
 **Have a good problem?** [Let’s build something thoughtful.](mailto:anishnagargoje@gmail.com)
 
